@@ -1,0 +1,6 @@
+streamlit
+pypdf
+pandas
+Pillow
+PyMuPDF
+numpy
