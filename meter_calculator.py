@@ -8,7 +8,7 @@ import fitz  # PyMuPDF
 import numpy as np
 
 st.set_page_config(
-    page_title="GolanCopy — מחשבון מטרים",
+    page_title="GolanCopy מחירון",
     page_icon="📐",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -63,9 +63,9 @@ div[data-testid="stFileUploader"] { border:2px dashed rgba(26,58,92,0.25)!import
 
 st.markdown("""
 <div class="main-header">
-    <h1>📐 GolanCopy — מחשבון מטרים ועלויות</h1>
-    <p>חישוב כמות נייר + הצעת מחיר · ללא הפקת PDF</p>
-    <p>GolanCopy@gmail.com · מג'דל שמס</p>
+    <h1>📐 GolanCopy — מחשבון מחירים העתקות הגולן</h1>
+    <p>פותח ע"י כינאן עוידאת</p>
+    <p>GolanCopy@gmail.com ·  קצרין - מג'דל שמס</p>
 </div>
 """, unsafe_allow_html=True)
 
